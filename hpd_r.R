@@ -1,3 +1,5 @@
+require(ggplot2)
+
 n=3
 x=c(2,6,1)
 sum_x=sum(x)
